@@ -1,8 +1,8 @@
-Nama : Hilmy Syaddad Ramzy Nurfauzan
+nama    :riski keliolan
 
-Nim : 312210162
+Nim     :312310716
 
-Kelas : TI22A1
+Kelas : Ti.23,A.3
 
-https://github.com/Hilmyramzy/HelloApps/assets/115677769/260a4ac0-5cf4-49fb-87de-404fb8abd5ae
+
 
